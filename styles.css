@@ -8,6 +8,15 @@ body {
     margin: 0;
 }
 
+.assignment {
+    display: flex;
+}
+
+.assignment img {
+    padding: 10px;
+    width: 200px;
+}
+
 h1 {
     text-align: center;
 }
