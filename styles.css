@@ -28,6 +28,11 @@ p {
 a, a:visited, a:link {
     color: #F24405;
     text-decoration: none;
+
+}
+
+a:hover {
+    color: brown;
 }
 
 .assignment {
